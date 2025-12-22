@@ -27,5 +27,5 @@ The model is optimized for **GPU-efficient training** on limited hardware such a
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/code-generation-model.git
+git clone https://github.com/ankitbhargav7234/code-generation-model.git
 cd code-generation-model
