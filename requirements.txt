@@ -1,5 +1,0 @@
---pytorch
---transformers
---datasets
---accelerate
---PyGithub
